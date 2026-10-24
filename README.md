@@ -249,4 +249,4 @@ This repository serves as the official landing page for XP Privacy. The software
 **Get the most recent version of XP Privacy today!**
 
 ---
-**Last updated:** 2026-10-23 23:42:23 UTC
+**Last updated:** 2026-10-24 02:52:55 UTC
